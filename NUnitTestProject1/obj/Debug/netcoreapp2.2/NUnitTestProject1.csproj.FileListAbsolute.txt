@@ -1,0 +1,17 @@
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.deps.json
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.json
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.dev.json
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.dll
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\Backend_Skietbaan_T2.dll
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\Backend_Skietbaan_T2.pdb
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfo.cs
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csproj.CopyComplete
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.pdb
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.dll
+C:\Users\Mandla Masombuka\Desktop\TestSkietbaan\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.pdb
